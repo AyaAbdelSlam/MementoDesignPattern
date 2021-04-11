@@ -1,0 +1,11 @@
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\bin\Debug\netcoreapp3.1\OtherExample.exe
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\bin\Debug\netcoreapp3.1\OtherExample.deps.json
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\bin\Debug\netcoreapp3.1\OtherExample.runtimeconfig.json
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\bin\Debug\netcoreapp3.1\OtherExample.runtimeconfig.dev.json
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\bin\Debug\netcoreapp3.1\OtherExample.dll
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\bin\Debug\netcoreapp3.1\OtherExample.pdb
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\obj\Debug\netcoreapp3.1\OtherExample.csprojAssemblyReference.cache
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\obj\Debug\netcoreapp3.1\OtherExample.AssemblyInfoInputs.cache
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\obj\Debug\netcoreapp3.1\OtherExample.AssemblyInfo.cs
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\obj\Debug\netcoreapp3.1\OtherExample.dll
+D:\CDP\Design Patterns Practice\MementoDesignPattern\OtherExample\obj\Debug\netcoreapp3.1\OtherExample.pdb
